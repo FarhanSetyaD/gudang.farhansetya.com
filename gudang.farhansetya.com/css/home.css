@@ -1,0 +1,11 @@
+.container{
+  padding-top: 90px;
+}
+
+.hover-card{
+  cursor: pointer;
+}
+
+.hover-card:hover{
+  opacity: 0.8;
+}
